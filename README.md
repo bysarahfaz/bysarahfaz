@@ -29,4 +29,4 @@ Interested in thoughtful UI design, interactive storytelling, and making digital
 
 ---
 
-_Learning, building, and growing one project at a time._ 🩵
+*Learning, building, and growing one project at a time.*🩵
