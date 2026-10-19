@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sarah Fazlyna ✿
 
-<!--
-**bysarahfaz/bysarahfaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Programmer exploring web development, creative coding, and building useful digital experiences.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in web development and full-stack software
+- 🌱 Currently focusing on HTML, CSS, and JavaScript
+- 🛠️ Improving my existing projects while learning through hands-on practice
+- ✨ Interested in creating interactive websites, desktop apps, and creative digital experiences
+
+### Tech Stack & Interests
+
+**Currently working with**
+
+`HTML` · `CSS` · `JavaScript` · `PHP` · `WordPress`
+
+**Exploring next**
+
+`React` · `Node.js` · `Full-Stack Development`
+
+### Projects
+
+More projects coming as I learn, build, and experiment.
+
+### Beyond the Code
+
+Interested in thoughtful UI design, interactive storytelling, and making digital experiences that are both useful and enjoyable.
+
+---
+
+_Learning, building, and growing one project at a time._ 🩵
