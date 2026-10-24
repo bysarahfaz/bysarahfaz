@@ -1,6 +1,6 @@
 # Hi, I'm Sarah Fazlyna ✿
 
-Junior Programmer exploring web development, creative coding, and building useful digital experiences.
+Currently exploring web development, creative coding, and building useful digital experiences.
 
 ### About Me
 
