@@ -1,4 +1,4 @@
-# Hi, I'm Sarah Fazlyna ✿
+# Hi, I'm Sarah ✿
 
 Currently exploring web development, creative coding, and building useful digital experiences.
 
